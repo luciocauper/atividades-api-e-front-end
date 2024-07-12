@@ -35,7 +35,9 @@ Resposta pelo Front-end
 ### Método DELETE
 
 A aplicação consegue apagar o registro pelo front-end, ao apagar o registro que foi feito acima como exemplo, ele não aparecerá nem no front nem no banco de dados.
+
 ![](https://i.imgur.com/Rtxw2vv.png)
+
 ![](https://i.imgur.com/5HlmVxo.png)
 
 ### Método PUT
